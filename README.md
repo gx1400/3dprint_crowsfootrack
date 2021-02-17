@@ -2,7 +2,7 @@
 
 Printed rack for Sunex Flare Nut socket wrenches
 
-SAE: [Sunex 9708](https://www.zoro.com/sunex-tools-38-drive-sae-crowfoot-wrench-set-8-pcs-38-drve-8-pcs-9708/i/G2314151)
+SAE: [Sunex 9708](https://www.zoro.com/sunex-tools-38-drive-sae-crowfoot-wrench-set-8-pcs-38-drve-8-pcs-9708/i/G2314151)  
 Metric: [Sunex 9710M](https://www.zoro.com/sunex-tools-metric-flare-nut-wrench-set-38-in-10-pc-9710m/i/G4514645/)
 
 Design driven from measurements into parameter variables in F360.  Measured throat opening, depth, thickness, and width.  Pics below showing measurement method.
